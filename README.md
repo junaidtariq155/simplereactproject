@@ -1,13 +1,13 @@
 # Project
- Just Create a simple React Appliation
- Forecasting detail via Zip Code
- React 18
- API Call with Axios
- Mui Material Table
- Mui Date Picker
- Mui Material
- Mui Icon
- AirNowApi Demo Example
+ Just Create a simple React Appliation.\
+ Forecasting detail via Zip Code.\
+ React 18.\
+ API Call with Axios.\
+ Mui Material Table.\
+ Mui Date Picker.\
+ Mui Material.\
+ Mui Icon.\
+ AirNowApi Demo Example.\
  
  <a href="https://ibb.co/gZDpCx9"><img src="https://i.ibb.co/1G95xkQ/demo.png" alt="demo" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>baby hazel pics</a><br />
 
